@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tim\\Documents\\Axevalla\\Programmering\\FileManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E30B9543-5581-493D-BA94-33764906599D}|FileManagement\\FileManagement.csproj|c:\\users\\tim\\documents\\axevalla\\programmering\\filemanagement\\filemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30B9543-5581-493D-BA94-33764906599D}|FileManagement\\FileManagement.csproj|solutionrelative:filemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tim\\Documents\\Axevalla\\Programmering\\FileManagement\\FileManagement\\Program.cs",
+              "RelativeDocumentMoniker": "FileManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\Tim\\Documents\\Axevalla\\Programmering\\FileManagement\\FileManagement\\Program.cs",
+              "RelativeToolTip": "FileManagement\\Program.cs",
+              "ViewState": "AQIAABkAAAAA+P////8NwCIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T12:23:04.082Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

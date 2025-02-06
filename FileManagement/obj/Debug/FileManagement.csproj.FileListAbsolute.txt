@@ -1,0 +1,7 @@
+C:\Users\Tim\Documents\Axevalla\Programmering\FileManagement\FileManagement\bin\Debug\FileManagement.exe.config
+C:\Users\Tim\Documents\Axevalla\Programmering\FileManagement\FileManagement\bin\Debug\FileManagement.exe
+C:\Users\Tim\Documents\Axevalla\Programmering\FileManagement\FileManagement\bin\Debug\FileManagement.pdb
+C:\Users\Tim\Documents\Axevalla\Programmering\FileManagement\FileManagement\obj\Debug\FileManagement.csproj.AssemblyReference.cache
+C:\Users\Tim\Documents\Axevalla\Programmering\FileManagement\FileManagement\obj\Debug\FileManagement.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Documents\Axevalla\Programmering\FileManagement\FileManagement\obj\Debug\FileManagement.exe
+C:\Users\Tim\Documents\Axevalla\Programmering\FileManagement\FileManagement\obj\Debug\FileManagement.pdb
