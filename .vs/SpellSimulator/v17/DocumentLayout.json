@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tigr8\\Documents\\Programmering\\SpellSimulator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2D4EFA-28E7-4E38-BB28-40CECD64BE6C}|SpellSimulator\\SpellSimulator.csproj|c:\\users\\tigr8\\documents\\programmering\\spellsimulator\\spellsimulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2D4EFA-28E7-4E38-BB28-40CECD64BE6C}|SpellSimulator\\SpellSimulator.csproj|solutionrelative:spellsimulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2D4EFA-28E7-4E38-BB28-40CECD64BE6C}|SpellSimulator\\SpellSimulator.csproj|c:\\users\\tigr8\\documents\\programmering\\spellsimulator\\spellsimulator\\spell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2D4EFA-28E7-4E38-BB28-40CECD64BE6C}|SpellSimulator\\SpellSimulator.csproj|solutionrelative:spellsimulator\\spell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2D4EFA-28E7-4E38-BB28-40CECD64BE6C}|SpellSimulator\\SpellSimulator.csproj|c:\\users\\tigr8\\documents\\programmering\\spellsimulator\\spellsimulator\\spellstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2D4EFA-28E7-4E38-BB28-40CECD64BE6C}|SpellSimulator\\SpellSimulator.csproj|solutionrelative:spellsimulator\\spellstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2D4EFA-28E7-4E38-BB28-40CECD64BE6C}|SpellSimulator\\SpellSimulator.csproj|c:\\users\\tigr8\\documents\\programmering\\spellsimulator\\spellsimulator\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2D4EFA-28E7-4E38-BB28-40CECD64BE6C}|SpellSimulator\\SpellSimulator.csproj|solutionrelative:spellsimulator\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "C:\\Users\\Tigr8\\Documents\\Programmering\\SpellSimulator\\SpellSimulator\\GameState.cs",
+              "RelativeDocumentMoniker": "SpellSimulator\\GameState.cs",
+              "ToolTip": "C:\\Users\\Tigr8\\Documents\\Programmering\\SpellSimulator\\SpellSimulator\\GameState.cs",
+              "RelativeToolTip": "SpellSimulator\\GameState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T12:10:06.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SpellState.cs",
+              "DocumentMoniker": "C:\\Users\\Tigr8\\Documents\\Programmering\\SpellSimulator\\SpellSimulator\\SpellState.cs",
+              "RelativeDocumentMoniker": "SpellSimulator\\SpellState.cs",
+              "ToolTip": "C:\\Users\\Tigr8\\Documents\\Programmering\\SpellSimulator\\SpellSimulator\\SpellState.cs",
+              "RelativeToolTip": "SpellSimulator\\SpellState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T11:19:14.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Spell.cs",
+              "DocumentMoniker": "C:\\Users\\Tigr8\\Documents\\Programmering\\SpellSimulator\\SpellSimulator\\Spell.cs",
+              "RelativeDocumentMoniker": "SpellSimulator\\Spell.cs",
+              "ToolTip": "C:\\Users\\Tigr8\\Documents\\Programmering\\SpellSimulator\\SpellSimulator\\Spell.cs",
+              "RelativeToolTip": "SpellSimulator\\Spell.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T11:14:58.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tigr8\\Documents\\Programmering\\SpellSimulator\\SpellSimulator\\Program.cs",
+              "RelativeDocumentMoniker": "SpellSimulator\\Program.cs",
+              "ToolTip": "C:\\Users\\Tigr8\\Documents\\Programmering\\SpellSimulator\\SpellSimulator\\Program.cs",
+              "RelativeToolTip": "SpellSimulator\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T11:14:15.336Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

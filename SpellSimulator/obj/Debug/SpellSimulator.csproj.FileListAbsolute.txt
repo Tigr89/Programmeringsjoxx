@@ -1,0 +1,7 @@
+C:\Users\Tigr8\Documents\Programmering\SpellSimulator\SpellSimulator\bin\Debug\SpellSimulator.exe.config
+C:\Users\Tigr8\Documents\Programmering\SpellSimulator\SpellSimulator\bin\Debug\SpellSimulator.exe
+C:\Users\Tigr8\Documents\Programmering\SpellSimulator\SpellSimulator\bin\Debug\SpellSimulator.pdb
+C:\Users\Tigr8\Documents\Programmering\SpellSimulator\SpellSimulator\obj\Debug\SpellSimulator.csproj.AssemblyReference.cache
+C:\Users\Tigr8\Documents\Programmering\SpellSimulator\SpellSimulator\obj\Debug\SpellSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Tigr8\Documents\Programmering\SpellSimulator\SpellSimulator\obj\Debug\SpellSimulator.exe
+C:\Users\Tigr8\Documents\Programmering\SpellSimulator\SpellSimulator\obj\Debug\SpellSimulator.pdb
