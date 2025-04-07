@@ -14,11 +14,6 @@ namespace SpellSimulator
             GameState currentGameState = GameState.NonCombat;
             List<Spell> spellList = new List<Spell>();
 
-
-            spellList.Add(new Spell("Fireball", 10, 0, 5, "Fire"));
-            spellList.Add(new Spell("Magic Missiles", 2, 3, 2, "Arcane"));
-            spellList.Add(spellCreator());
-
             ListAllSpells(spellList);
 
 
@@ -30,11 +25,41 @@ namespace SpellSimulator
                 switch (currentGameState)
                 {
                     case GameState.NonCombat:
-                        Console.WriteLine("In a peaceful area");
+                        Console.WriteLine("You're in the village. What do you want to do?");
+                        Console.WriteLine("1: Craft a new spell!");
+                        Console.WriteLine("2. Examine Spellbook!");
+                        Console.WriteLine("3: Sell loot!");
+                        Console.WriteLine("3: Go out and fight monsters!");
+                        int choice = Convert.ToInt32(Console.ReadLine());
+
+                        while(choice != 1 && choice != 2 && choice != 3)
+                        {
+                            Console.WriteLine("Invalid entry, try again");
+                            choice = Convert.ToInt32(Console.ReadLine());
+                        }
+                        if(choice == 1)
+                        {
+                            spellList.Add(spellCreator());
+                        }
+                        if(choice == 2)
+                        {
+                            ListAllSpells(spellList);
+                        }
+                        if(choice == 3)
+                        {
+                            
+                        }
+                        if (choice == 4)
+                        {
+                            currentGameState = GameState.Combat;
+                        }
+                        choice = 0;
+
                         break;
 
                     case GameState.Combat:
                         Console.WriteLine("WRAAAR!");
+                        Console.Read();
                         break;
                 }
             }
@@ -66,6 +91,12 @@ namespace SpellSimulator
 
         public static void ListAllSpells(List<Spell> _spellList)
         {
+            if(_spellList.Count == 0)
+            {
+                Console.WriteLine("Your spellbook is empty! Go craft some spells!");
+                return;
+            }
+
             for(int i = 0; i < _spellList.Count; i++)
             {
                 Console.WriteLine(i + 1 + ": " + _spellList[i].spellName);

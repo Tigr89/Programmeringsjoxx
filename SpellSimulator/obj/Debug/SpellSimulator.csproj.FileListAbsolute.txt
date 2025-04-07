@@ -5,3 +5,10 @@ C:\Users\Tigr8\Documents\Programmering\SpellSimulator\SpellSimulator\obj\Debug\S
 C:\Users\Tigr8\Documents\Programmering\SpellSimulator\SpellSimulator\obj\Debug\SpellSimulator.csproj.CoreCompileInputs.cache
 C:\Users\Tigr8\Documents\Programmering\SpellSimulator\SpellSimulator\obj\Debug\SpellSimulator.exe
 C:\Users\Tigr8\Documents\Programmering\SpellSimulator\SpellSimulator\obj\Debug\SpellSimulator.pdb
+C:\Users\Tigr8\Documents\Programmering\Programmeringsjoxx\SpellSimulator\bin\Debug\SpellSimulator.exe.config
+C:\Users\Tigr8\Documents\Programmering\Programmeringsjoxx\SpellSimulator\bin\Debug\SpellSimulator.exe
+C:\Users\Tigr8\Documents\Programmering\Programmeringsjoxx\SpellSimulator\bin\Debug\SpellSimulator.pdb
+C:\Users\Tigr8\Documents\Programmering\Programmeringsjoxx\SpellSimulator\obj\Debug\SpellSimulator.csproj.AssemblyReference.cache
+C:\Users\Tigr8\Documents\Programmering\Programmeringsjoxx\SpellSimulator\obj\Debug\SpellSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Tigr8\Documents\Programmering\Programmeringsjoxx\SpellSimulator\obj\Debug\SpellSimulator.exe
+C:\Users\Tigr8\Documents\Programmering\Programmeringsjoxx\SpellSimulator\obj\Debug\SpellSimulator.pdb
